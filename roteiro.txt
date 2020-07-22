@@ -6,8 +6,7 @@ Trabalho Prático - roteiro
    https://www.todacarreira.com/calculo-salario-liquido/
   
    
-() Em App.js, criar state com fullSalary = 1000
-  
+() Em App hero
 () Implementar os seguintes componentes:
    () InputFullSalary, do tipo number, valor mínimo
       de 1000 e step 100. Evento para onChange, que
