@@ -1,4 +1,4 @@
-<h1>Trabalho pratico do curso desenvolvedor full stack javascript<h1>
+<h1>Trabalho pratico do curso desenvolvedor full stack javascript</h1>
 
 <h3>Tecnlogias usadas no projeto</h3>
 

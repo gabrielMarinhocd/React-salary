@@ -43,7 +43,16 @@ export default class App extends Component {
     const percentNetSalary = 100 - percentINSS - percentIRPF;
 
     return (
-      <div className="container">
+      <div
+        className="container"
+        style={{
+          backgroundColor: 'white',
+          padding: '10px',
+          paddingBotton: '50px',
+          marginTop: '10px',
+          marginBottom: '10px',
+        }}
+      >
         <h1 className="center">React Salário</h1>
 
         <div className="row">
